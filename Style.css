@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: blue;      
+}
+
+
+.image-section{
+    display: flex;
+justify-content: center;
+}
+
+
+p{
+    text-align: center;
+    color: orangered;
+    font-size: 30px;
+}
+
+h1{
+    color: crimson;
+}
